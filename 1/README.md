@@ -19,6 +19,7 @@
 - QGridLayout
 - QMouseEvent
 - QSlider
+- QLineEdit
 
 Вывод
 
