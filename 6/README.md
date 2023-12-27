@@ -23,4 +23,4 @@
 В ходе выполнения Лабораторной работы №6 разработано приложение по визуализации трехмерных моделей, а также с помощью библиотеки PyGame обеспечивается взаимодействие с этой моделью, что может быть полезно в сферах, где необходима работа с тремерной графикой и геймификацией.
 
 Ссылка на .exe файл:
-https://drive.google.com/drive/folders/1-zpepLz7bxDC7GrkYbjVeIfv6PrP2KvL?usp=sharing
+https://drive.google.com/drive/folders/19VleaL8OOz42QBZUXGnVomyYqioSIcz_?usp=drive_link
